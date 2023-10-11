@@ -1,0 +1,2 @@
+PROJECT_ID="insert project id here"
+STORAGE_BUCKET="insert bucket id here"
