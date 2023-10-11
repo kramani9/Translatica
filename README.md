@@ -28,7 +28,13 @@ Run:
 Upload an mp4, choose a language to translate from and a language to translate to. Press Process Video.
 
 ## Configuration
+Create a virtual environment via 
+``` python3 -m venv venv
+    source ./venv/bin/activate```
 
+Create a .env file and copy the env_template.txt file after making the relevant changes regarding your google cloud service account (that will be interacting with the API's). Also include the account's json file in the so-vits-svc-fork folder.
+
+You will also need to update the openAIAPI.py file with your openAI api key.
 
 
 ## Features
