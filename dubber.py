@@ -11,7 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-from openAIbullshit import translate_text_openai
+from openAIAPI import translate_text_openai
 from pydub import AudioSegment
 from google.cloud import speech_v1p1beta1 as speech
 from google.cloud import texttospeech
