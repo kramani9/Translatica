@@ -11,21 +11,25 @@ Translatica uses OpenAI and SO VITS SVG to generate a dub of a video lecture whi
 - [Configuration](#configuration)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Testing](#testing)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
 
-Instructions for installing and setting up the project. Include any dependencies and how to install them.
+`git clone https://github.com/voicepaw/so-vits-svc-fork.git' so-vits-fork for voice inference and training, follow svc install instructions
+
+Insert all files from this repository directly into so-vits-svc-fork folder.
 
 ## Usage
 
-Guidance on how to use the project, including code examples, API usage, or any necessary configurations.
+Run:
+```python interface.py```
+
+Upload an mp4, choose a language to translate from and a language to translate to. Press Process Video.
 
 ## Configuration
 
-Details about configuration options, environment variables, or settings that can be customized.
+
 
 ## Features
 
@@ -34,13 +38,6 @@ List and explain the key features of the project.
 ## Contributing
 
 Guidelines for contributing to the project, including information about how to submit bug reports, feature requests, or pull requests.
-
-## Testing
-
-Run:
-```python interface.py```
-
-Upload an mp4, choose a language to translate from and a language to translate to. Press Process Video.
 
 ## Authors
 
