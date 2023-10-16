@@ -50,7 +50,7 @@ Guidelines for contributing to the project, including information about how to s
 
 Krishna Ramani
 Baaz Jhaj
-Jeffrey Hsu
+Jeffrey Hsu 
 
 ## Acknowledgments
 
