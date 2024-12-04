@@ -2,7 +2,9 @@
 
 ## Project Description
 
-Translatica uses OpenAI and SO VITS SVG to generate a dub of a video lecture while maintaining the lectures tone and voice
+The goal of Translatica is to provide University level content to any viewer in any language to bridge the western education gap. Instead of relying on subtitles or a robotic translation, Translatica uses OpenAI and SO VITS SVG to generate a dub of a video lecture while maintaining the lectures tone and voice. 
+
+Placed #2 in the AI in Education Hackathon!
 
 ## Table of Contents
 
